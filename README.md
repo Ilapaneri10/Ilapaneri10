@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ilapaneri10
-- 👀 I’m interested in Java,Springboot and Microservices
-- 🌱 I’m currently learning Microservices
+- 👀 I have more than 10 years of experience in Java,Springboot and Microservices
+- 🌱 I’m currently working on JS Framework especially EXT JS
 - 💞️ I’m looking to collaborate on some great ideas
 - 📫 How to reach me ilapaneri3@gmail.com
 
